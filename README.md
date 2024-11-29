@@ -4,4 +4,4 @@ Want to send someone a Shotcut project but think they are too lazy to install Sh
 
 ## TODO
 
-Create build script so always the newest Shotcut and 7-ZIP versions are used & reinitialise repository to reduce it's size.
+Create build script so always the newest Shotcut and 7-ZIP versions are used & reinitialise repository to reduce it's size. See https://github.com/jzelAdmin2006/standalone-shotcut-project-template.
